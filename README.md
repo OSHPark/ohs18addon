@@ -2,7 +2,7 @@
 [OSHWA-themed](http://oshwa.org) Learn to Solder add-on board designed by [Andrew Sowa](https://twitter.com/JunesPhD) for the [Open Hardware Summit 2018](http://2018.oshwa.org) badge. Visit the [badge project page](https://hackaday.io/project/112222-2018-open-hardware-summit-badge) for more information.
 
 ## OSH Park shared project
-[https://oshpark.com/shared_projects/bYZcX6UL](https://oshpark.com/shared_projects/bYZcX6UL)
+Order PCB from OSH Park: [https://oshpark.com/shared_projects/bYZcX6UL](https://oshpark.com/shared_projects/bYZcX6UL)
 
 ## Bill of Materials
 **5mm color changing LED** (quantity 1):
