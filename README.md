@@ -1,14 +1,12 @@
 # Learn-to-solder OHS18 badge add-on
 [OSHWA-themed](http://oshwa.org) Learn to Solder add-on board designed by [Andrew Sowa](https://twitter.com/JunesPhD) for the [Open Hardware Summit 2018](http://2018.oshwa.org) badge. Visit the [badge project page](https://hackaday.io/project/112222-2018-open-hardware-summit-badge) for more information.
 
-
-
 ## OSH Park shared project
 [https://oshpark.com/shared_projects/bYZcX6UL](https://oshpark.com/shared_projects/bYZcX6UL)
 
 ## Bill of Materials
 **5mm color changing LED** (quantity 1):
-* [EDGELEC 100pcs 5mm RGB Slow Flashing LED Diodes Multicolor (White Lens / Colors Changed Automatically) Diffused Round Top +100pcs Resistors (For DC 6-13V) / Bulb Light Emitting Diode](https://smile.amazon.com/gp/product/B077X9Z3FW/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
+* [EDGELEC 100pcs 5mm RGB Slow Flashing LED Diodes Multicolor](https://smile.amazon.com/gp/product/B077X9Z3FW/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
 
 **Resistor** (quantity 1):
 * [E-Projects 500EP5141K00 1k Ohm Resistors, 1/4 W, 5% (Pack of 500)](https://smile.amazon.com/gp/product/B01LWLTQFU/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1)
